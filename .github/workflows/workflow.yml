@@ -12,3 +12,5 @@ jobs:
         uses: ./.github/actions/hello-world
         with:
           first-greeting: "Learning Lab User"
+          second-greeting: "Writing Javascript Actions"
+          third-greeting: "Working with action.yml and main.js and workflow.yml"
