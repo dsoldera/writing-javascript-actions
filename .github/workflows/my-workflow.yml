@@ -1,4 +1,4 @@
-name: JS Actions"
+name: JS Actions
 
 on:
   pull_request:
@@ -16,4 +16,3 @@ jobs:
 
       - name: ha-ha
         uses: ./.github/actions/joke-action
-        
