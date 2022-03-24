@@ -16,8 +16,6 @@ jobs:
 
       - name: ha-ha
         uses: ./.github/actions/joke-action
-        with:
-          first-greeting: "Learning Lab User"
       
       - name: create-issue
         uses: ./.github/actions/issue-maker
